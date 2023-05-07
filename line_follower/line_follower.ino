@@ -1,12 +1,4 @@
-/***************************************************************************************
- *
- * Title:       Analog read IR
- * Description: Read an infrared sensor from an analog input port.
- * If the analog value read is < 512, we turn the LED on, else it's turned off.
- * Connect the sensor output to A1.
- * Connect the sensor power rack ENABLE to 4.
- *
- ***************************************************************************************/
+
 #include <prismino.h>
 
 #define IR_EN 4
@@ -72,15 +64,9 @@ void loop()
     }
     else
     {
-      setSpeed(steady_state_speed, steady_state_speed);//left motor lags behind
-     // delay(100);
+      setSpeed(steady_state_speed, steady_state_speed);
     }
 
-   /* Serial.print("Currently detected: ");
-    Serial.print(ir_current[0]);
-    Serial.print(" , ");
-    Serial.print(ir_current[1]);
-    Serial.print("\n");*/
   }
   
   if(!go)
@@ -100,10 +86,6 @@ void button(void)
   digitalWrite(LED, !digitalRead(LED));
  
 }
-
-
-
-
 
 //I dont wanna deal with Arduino ide import issues(already had some comflicts with <prismino.h> for some reason) so im dumping it all in one file
 //***********************************************************************************************************************************************
