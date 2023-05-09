@@ -44,5 +44,10 @@ Remember to download the [`prismino.h`](https://github.com/Robopoly/Robopoly_PRi
 For details on the used parts, visit the [Prisme kit](https://www.epfl.ch/campus/associations/list/robopoly/kit-prisme/) for the base parts, and the [Prisme extensions](https://www.epfl.ch/campus/associations/list/robopoly/kit-prisme-extension/) for other parts. Not, these webpages are in french.
 
 The chassis was made arbitrarily, feel free to get creative, or derive from my work in the [images](images/) folder. <br>
+
+The [track](images/20230508_222430.jpg) is also found there.
+
+All of the videos are also found in the [videos](videos/) folder.
+
 The calibration of the robot is seen here:
 
