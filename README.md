@@ -5,9 +5,6 @@ AIn this project, an An Arduino Leonardo was setup to be a line following robot.
 
 https://user-images.githubusercontent.com/106456040/236983636-2fea785a-858b-4c19-b2cb-65fcdd88ca31.mp4
 
-
-</video>
-
 ## Source Code Overview
 The source file [line_follower.ino](/line_follower/line_follower.ino) is composed of a typical `setup()`/`loop()` configuration found on all Arduino devices, written in C++.
 
