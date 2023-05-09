@@ -41,7 +41,7 @@ If `go = false` the motors are set to zero speed, and the robot enters calibrati
 Simply upload the code to your `Arduino Leonardo` and you're set.
 Remember to download the [`prismino.h`](https://github.com/Robopoly/Robopoly_PRismino) library in the Arduino IDE.
 
-For details on the used parts, visit the [Prisme kit](https://www.epfl.ch/campus/associations/list/robopoly/kit-prisme/) for the base parts, and the [Prisme extensions](https://www.epfl.ch/campus/associations/list/robopoly/kit-prisme-extension/) for other parts. Not, these webpages are in french.
+For details on the used parts, visit the [Prisme kit](https://www.epfl.ch/campus/associations/list/robopoly/kit-prisme/) for the base parts, and the [Prisme extensions](https://www.epfl.ch/campus/associations/list/robopoly/kit-prisme-extension/) for other parts. Note, these webpages are in french.
 
 The chassis was made arbitrarily, feel free to get creative, or derive from my work in the [images](images/) folder. <br>
 
