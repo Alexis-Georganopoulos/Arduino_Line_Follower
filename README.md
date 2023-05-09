@@ -33,7 +33,7 @@ The loop() function is responsible for the main program logic. It continuously c
 Normally we would seperate the control system code into its own function, but its a simple binary controller so it's appropriate to leave it as-is.<br>
 The value of `go` is controlled by the onboard button, hence the callback function.
 
-If "go = false" the motors are set to zero speed, and the robot enters calibration mode. In this mode, we can press the off-board button to start the automated calibration process.
+If `go = false` the motors are set to zero speed, and the robot enters calibration mode. In this mode, we can press the off-board button to start the automated calibration process.
 
 
 
