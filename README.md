@@ -1,7 +1,8 @@
 # Arduino Line Follower
 
 
-AIn this project, an An Arduino Leonardo was setup to be a line following robot. The chassis, sensors, and code were all designed/constructed/written from scratch. A simple binary controller allows the robot to use the underside IR sensors to track the black line. It can handle curves, straight lines, right-angle turns, small radius turns, and acute-angle turns.
+AIn this project, an An Arduino Leonardo was setup to be a line following robot. The chassis, sensors, and code were all designed/constructed/written from scratch. A simple binary controller allows the robot to use the underside IR sensors to track the black line. It can handle curves, straight lines, right-angle turns, small radius turns, and acute-angle turns. <br>
+[Using the robot](#usage)
 
 https://user-images.githubusercontent.com/106456040/236983636-2fea785a-858b-4c19-b2cb-65fcdd88ca31.mp4
 
@@ -42,5 +43,6 @@ Remember to download the [`prismino.h`](https://github.com/Robopoly/Robopoly_PRi
 
 For details on the used parts, visit the [Prisme kit](https://www.epfl.ch/campus/associations/list/robopoly/kit-prisme/) for the base parts, and the [Prisme extensions](https://www.epfl.ch/campus/associations/list/robopoly/kit-prisme-extension/) for other parts. Not, these webpages are in french.
 
-The chassis was made arbitrarily, feel free to get creative, or derive from my work in the [images](images/) folder. 
+The chassis was made arbitrarily, feel free to get creative, or derive from my work in the [images](images/) folder. <br>
+The calibration of the robot is seen here:
 
