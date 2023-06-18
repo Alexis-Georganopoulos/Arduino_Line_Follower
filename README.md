@@ -1,7 +1,7 @@
 # Arduino Line Follower
 
 
-AIn this project, an An Arduino Leonardo was setup to be a line following robot. The chassis, sensors, and code were all designed/constructed/written from scratch. A simple binary controller allows the robot to use the underside IR sensors to track the black line. It can handle curves, straight lines, right-angle turns, small radius turns, and acute-angle turns. <br>
+In this project, an Arduino Leonardo was setup to be a line following robot. The chassis, sensors, and code were all designed/constructed/written from scratch. A simple binary controller allows the robot to use the underside IR sensors to track the black line. It can handle curves, straight lines, right-angle turns, small radius turns, and acute-angle turns. <br>
 [Using the robot](#usage)
 
 https://user-images.githubusercontent.com/106456040/236983636-2fea785a-858b-4c19-b2cb-65fcdd88ca31.mp4
